@@ -5,8 +5,8 @@
     --verde: #ff0000;
     --branco: #929292;
     --botao-ativo: #000000;
-    --botao-inativo: rgba(0, 0, 0, 0.5);
-    --texto-fundo: rgba(0, 0, 0, 0.3);
+    --botao-inativo: rgb(0, 0, 0);
+    --texto-fundo: rgb(0, 0, 0);
 }
 
 body {
